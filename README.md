@@ -25,7 +25,8 @@ Dive into the world of strategic gaming with "Tic Tac Toe Challenge" – an imme
   
 ## Screenshots:
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-31 at 17 58 08](https://github.com/FlaviusAkb/TicTacToePublic/assets/46058216/d25c8e94-bf62-421c-a5cd-dee50b36cb98)
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-31 at 17 57 47](https://github.com/FlaviusAkb/TicTacToePublic/assets/46058216/b9ae215f-4b05-46e7-a026-d4e5288679ab)
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-20 at 14 21 59](https://github.com/FlaviusAkb/TicTacToe/assets/46058216/91b494be-1d9b-475f-a90e-89dfa920ee53)
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-20 at 14 21 54](https://github.com/FlaviusAkb/TicTacToe/assets/46058216/79e7e8b5-4b37-4d02-9262-2e7547934d85)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-04 at 11 45 14](https://github.com/FlaviusAkb/TicTacToePublic/assets/46058216/372e79bf-148e-4c14-ab96-9bfac154d350)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-04 at 11 45 51](https://github.com/FlaviusAkb/TicTacToePublic/assets/46058216/59ef6b00-e3b4-44ae-993c-6a0d6fecaf3d)
+![261849096-91b494be-1d9b-475f-a90e-89dfa920ee53](https://github.com/FlaviusAkb/TicTacToePublic/assets/46058216/19320096-c5a4-48ff-a32a-30290f0637c0)
+![261849094-79e7e8b5-4b37-4d02-9262-2e7547934d85](https://github.com/FlaviusAkb/TicTacToePublic/assets/46058216/7a119c13-28d4-4e6a-a25f-7a2d57101a2f)
+
